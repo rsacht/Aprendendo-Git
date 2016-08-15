@@ -1,0 +1,1 @@
+Segundo arquivo criado para aprender Git e Github
