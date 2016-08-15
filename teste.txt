@@ -1,1 +1,2 @@
 Praticando commites com arquivo de Teste!
+Alterando o arquivo de teste!
